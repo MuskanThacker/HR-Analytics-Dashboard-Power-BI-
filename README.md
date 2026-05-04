@@ -20,7 +20,7 @@ The dashboard helps in understanding patterns such as employee distribution, att
 - **Microsoft Excel**
 - Data Cleaning & Transformation
 - Data Visualization Techniques
-- 
+
 ## 📷 Dashboard Preview
 <img width="1910" height="973" alt="image" src="https://github.com/user-attachments/assets/b5267b93-0b79-41f2-a782-7a88725bac53" />
 
